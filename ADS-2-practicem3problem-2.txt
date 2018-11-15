@@ -1,0 +1,21 @@
+
+Leaning by doing-2
+2.Draw all the nonisomorphic DAGs with two, three, four, and five vertices ?
+ DAGs with two vertices:
+
+	1--------->2
+ DAGs with three vertices:
+                  1--------->2------->3
+                  1-------->2<--------3
+DAGs with four vertices:
+	 1--------->2
+	 	 |
+	 	 |
+		\/
+	3--------->	4
+	
+ 	 1--------->2
+	 |	 
+	 |	 
+	\/	
+	3--------->	4
