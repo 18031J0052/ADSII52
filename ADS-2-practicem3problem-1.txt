@@ -1,0 +1,6 @@
+Module 3 - Introduction to Digraphs, Digraph API, Digraph search.
+
+1)What is the maximum number of edges in a digraph with V vertices and no parallel edges? 
+            Ans: N(N-1)
+What is the minimum number of edges in a digraph with V vertices, none of which are isolated?
+            Ans:2(N-1)
